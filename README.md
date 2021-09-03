@@ -1,2 +1,5 @@
 # AUTO-TOP-OFF-CONTROLLER-r00
 WITH ADDITIONAL TWIN RELAYS FOR RODI CONTROL
+
+![ATO r00 TOP VIEW](https://user-images.githubusercontent.com/47131005/132051430-8cd604ca-51cc-4a22-8c96-715269ed68ad.png)
+![ATO r00 BOTTOM VIEW](https://user-images.githubusercontent.com/47131005/132051451-07b5e343-a10a-4e1f-a710-66c679081297.png)
